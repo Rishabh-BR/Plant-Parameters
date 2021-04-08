@@ -1,0 +1,4 @@
+0 Healthy 
+1 Non healthy Plants
+2 Good Moisture Content
+3 Low Moisture Content
